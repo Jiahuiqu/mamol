@@ -4,7 +4,7 @@ Official PyTorch implementation of the paper:
 **“Rethinking Efficient Mixture-of-Experts for Remote Sensing Modality-Missing Classification”**  
 (arXiv: https://arxiv.org/abs/2511.11460)
 <div align="center">
-  <img src="fig/framework.jpg" width="720">
+  <img src="fig/framework.png" width="720">
 </div>
 ---
 
